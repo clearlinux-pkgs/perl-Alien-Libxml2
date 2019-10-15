@@ -1,0 +1,13 @@
+0.09
+libxml2-dev
+perl(Alien::Build::MM)
+perl(Capture::Tiny)
+perl(File::Which)
+perl(File::chdir)
+perl(Importer)
+perl(Path::Tiny)
+perl(Sort::Versions)
+perl(Sub::Info)
+perl(Test2::V0)
+perl(URI)
+perl(URI::Escape)
