@@ -1,4 +1,4 @@
-0.09
+0.11
 libxml2-dev
 perl(Alien::Build::MM)
 perl(Capture::Tiny)
@@ -11,3 +11,5 @@ perl(Sub::Info)
 perl(Test2::V0)
 perl(URI)
 perl(URI::Escape)
+util-linux
+xz-dev
