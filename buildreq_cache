@@ -1,10 +1,11 @@
-0.11
+0.12
 libxml2-dev
 perl(Alien::Build::MM)
 perl(Capture::Tiny)
 perl(File::Which)
 perl(File::chdir)
 perl(Importer)
+perl(Mojo::DOM58)
 perl(Path::Tiny)
 perl(Sort::Versions)
 perl(Sub::Info)
