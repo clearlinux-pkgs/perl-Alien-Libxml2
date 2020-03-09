@@ -1,5 +1,5 @@
 PKG_NAME := perl-Alien-Libxml2
-URL = https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.12.tar.gz
+URL = https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.14.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
