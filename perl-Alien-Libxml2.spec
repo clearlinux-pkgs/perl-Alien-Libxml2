@@ -4,10 +4,10 @@
 #
 Name     : perl-Alien-Libxml2
 Version  : 0.16
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.16.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.16.tar.gz
-Summary  : Install the C libxml2 library on your system
+Summary  : 'Install the C libxml2 library on your system'
 Group    : Development/Tools
 License  : Artistic-1.0 Artistic-1.0-Perl GPL-1.0
 Requires: perl-Alien-Libxml2-license = %{version}-%{release}
@@ -37,7 +37,6 @@ version 0.16
 Summary: dev components for the perl-Alien-Libxml2 package.
 Group: Development
 Provides: perl-Alien-Libxml2-devel = %{version}-%{release}
-Requires: perl-Alien-Libxml2 = %{version}-%{release}
 Requires: perl-Alien-Libxml2 = %{version}-%{release}
 
 %description dev
@@ -112,8 +111,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Alien/Libxml2.pm
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/Alien/Libxml2.pm
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
