@@ -1,14 +1,14 @@
-0.16
+0.17
 libxml2-dev
 perl(Alien::Build::MM)
 perl(Capture::Tiny)
 perl(File::Which)
 perl(File::chdir)
 perl(Importer)
-perl(Mojo::DOM58)
 perl(Path::Tiny)
 perl(Sort::Versions)
 perl(Sub::Info)
 perl(Test2::V0)
 perl(URI)
 perl(URI::Escape)
+xz-dev
