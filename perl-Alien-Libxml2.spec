@@ -4,7 +4,7 @@
 #
 Name     : perl-Alien-Libxml2
 Version  : 0.17
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.17.tar.gz
 Summary  : 'Install the C libxml2 library on your system'
@@ -111,8 +111,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/Alien/Libxml2.pm
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/Alien/Libxml2.pm
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
