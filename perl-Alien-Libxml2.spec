@@ -4,7 +4,7 @@
 #
 Name     : perl-Alien-Libxml2
 Version  : 0.17
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Alien-Libxml2-0.17.tar.gz
 Summary  : 'Install the C libxml2 library on your system'
