@@ -111,8 +111,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/Alien/Libxml2.pm
-/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
-/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
-/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
-/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
+/usr/lib/perl5/vendor_perl/5.34.0/x86_64-linux-thread-multi/Alien/Libxml2.pm
+/usr/lib/perl5/vendor_perl/5.34.0/x86_64-linux-thread-multi/Alien/Libxml2/Install/Files.pm
+/usr/lib/perl5/vendor_perl/5.34.0/x86_64-linux-thread-multi/auto/Alien/Libxml2/Libxml2.txt
+/usr/lib/perl5/vendor_perl/5.34.0/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alien.json
+/usr/lib/perl5/vendor_perl/5.34.0/x86_64-linux-thread-multi/auto/share/dist/Alien-Libxml2/_alien/alienfile
